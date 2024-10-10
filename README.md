@@ -1,6 +1,6 @@
 <h1><b>Quick Start to Markdown Publishing:</b><br> Using Docsify-This with GitHub and Codeberg Files</h1> 
 
-Materials for Paul Hibbitts’ [OE Global Demo Wednesday Live session](https://www.oeglobal.org/event/demo-wednesdays-docsify-this/) about the open-source lightweight Markdown publishing tool [Docsify&#8288;&#8211;&#8288;This](https://Docsify-This.net).
+Materials for Paul Hibbitts’ [OEGlobal Demo Wednesday Live session](https://www.oeglobal.org/event/demo-wednesdays-docsify-this/) about the open-source lightweight Markdown publishing tool [Docsify&#8288;&#8211;&#8288;This](https://Docsify-This.net).
 
 While Docsify-This can instantly turn a Markdown file hosted almost anywhere online into a web page, both [GitHub](https://github.com) and [Codeberg](https://codeberg.org) offer key advantages, such as version control and the potential for collaboration. Learn more below!
 
