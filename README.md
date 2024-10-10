@@ -4,7 +4,7 @@ Materials for Paul Hibbitts’ [OE Global](https://www.oeglobal.org/) Demo Wedne
 
 While Docsify-This can instantly turn a Markdown file hosted almost anywhere online into a web page, both [GitHub](https://github.com) and [Codeberg](https://codeberg.org) offer key advantages, such as version control and the potential for collaboration. Learn more below!
 
-- [Create and Host Markdown Files on GitHub or Codeberg for Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/oeglobal-demo-wednesday-docsify-this/main/pages&homepage=create-and-host-a-markdown-file.md&edit-link=https://github.com/paulhibbitts/oeglobal-demo-wednesday-live-docsify-this/blob/main/pages/create-and-host-a-markdown-file.md&edit-link-text=Suggest%20an%20Edit%20to%20this%20Page%20on%20GitHub&browser-tab-title=Create%20and%20Host%20Markdown%20Files%20on%20GitHub%20or%20Codeberg&toc=true&toc-headings=h2,h3&dark-mode=true)
+- [Create and Host Markdown Files on GitHub or Codeberg for Docsify-This](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/paulhibbitts/oeglobal-demo-wednesday-live-docsify-this/main/pages&homepage=create-and-host-a-markdown-file.md&edit-link=https://github.com/paulhibbitts/oeglobal-demo-wednesday-live-docsify-this/blob/main/pages/create-and-host-a-markdown-file.md&edit-link-text=Suggest%20an%20Edit%20to%20this%20Page%20on%20GitHub&browser-tab-title=Create%20and%20Host%20Markdown%20Files%20on%20GitHub%20or%20Codeberg&toc=true&toc-headings=h2,h3&dark-mode=true)
 - Example Markdown file hosted on:
   - [Codeberg](https://codeberg.org/paulhibbitts/docsify-this-demo-files/src/branch/main/example.md)
   - [GitHub](https://github.com/paulhibbitts/docsify-this-demo-files/blob/main/example.md)
