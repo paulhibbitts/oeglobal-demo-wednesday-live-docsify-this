@@ -98,7 +98,9 @@ Using GitHub Desktop you can preview any changes and then commit those changes b
 
 - Markdown Desktop Editors
   - [https://code.visualstudio.com](https://code.visualstudio.com ':target=_blank')
+  - [https://vscodium.com](https://vscodium.com/ ':target=_blank')
   - [https://typora.io](https://typora.io ':target=_blank')
+  - [https://pulsar-edit.dev](https://pulsar-edit.dev ':target=_blank') 
 - GitHub Desktop App (can also be used with Codeberg)
   - [https://desktop.github.com](https://desktop.github.com ':target=_blank')
 
