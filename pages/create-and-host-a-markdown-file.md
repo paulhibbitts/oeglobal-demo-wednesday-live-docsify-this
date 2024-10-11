@@ -83,7 +83,7 @@ Using GitHub Desktop you can preview any changes and then commit those changes b
 
 ---
 
-## Additional Resources
+## Supporting Resources
 
 ### Articles and Guides
 
