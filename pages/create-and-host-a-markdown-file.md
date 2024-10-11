@@ -2,7 +2,7 @@
 
 For version control (the ability to reverse changes) and potential collaboration, both GitHub and Codeberg are excellent choices for hosting raw Markdown files for [Docsify&#8288;&#8211;&#8288;This](https://docsify-this.net). Below is a step-by-step guide to help you get started with either platform.
 
-_Please note that all the external links below will open in a new browser tab, so you can keep this guide open for easy reference!_
+_Please note that all the following external links will open in a new browser tab, so you can keep this guide open for easy reference!_
 
 ## Step 1: Create a New Repository
 
