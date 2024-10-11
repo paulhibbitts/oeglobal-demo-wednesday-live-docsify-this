@@ -77,7 +77,7 @@ Since both GitHub and Codeberg are online [Git services](https://www.w3schools.c
 
 Once your Docsify-This Markdown files are synced (i.e. cloned) to your desktop via GitHub Desktop you can then use the text editor of your choice, such as [VSCode](https://code.visualstudio.com), [VSCodium](https://vscodium.com/) (Free/Libre Open Source version of VS Code), [Pulsar](https://pulsar-edit.dev) (was Atom.io), [Typora](https://typora.io/) etc.
 
-Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode can also be used independently for both syncing and editing files.
+Using GitHub Desktop you can preview any changes and then commit those changes back to the repository. VSCode and VSCodium can also be used independently for both syncing and editing files.
 
 ---
 
