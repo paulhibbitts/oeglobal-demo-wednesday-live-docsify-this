@@ -18,7 +18,8 @@ While Docsify-This can instantly turn a Markdown file hosted almost anywhere onl
 **BONUS:** For Codeberg fans out there, here is an example instance of Docsify-This running on Codeberg Pages 🚀  
 https://docsify-this.codeberg.page
 
-![Laptop and a cup of coffee,mobile phone on office desk](https://filedn.com/l78zlRyJQn1RTxFigiQaSxu/images/istock-licensed-images/iStock-510636274.jpg ':class=banner-tall-image')  
-©iStockphoto.com/xijian
+<h1>Open-Source Software to Empower Digitally Curious Open Publishers, Educators, and&nbsp;Creators</h1> 
+
+<img src="https://github.com/user-attachments/assets/885d5aec-3a0f-40d6-bd52-55371dd4c1d7" alt="Three hand-drawn abstract icons on a flowing, multi-coloured background suggesting digital waves. The first icon represents 'open', the second icon represents 'empowered', and the third icon represents 'publishing.'" title="Image created by Jason Toal of Same Page Studio">
 
 <br><p xmlns:cc="http://creativecommons.org/ns#" >All text of this work by <span property="cc:attributionName">Paul Hibbitts of <a href="https://hibbittsdesign.org"> Hibbitts Design</a></span> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
