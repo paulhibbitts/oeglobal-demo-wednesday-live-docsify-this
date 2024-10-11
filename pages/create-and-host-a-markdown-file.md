@@ -4,7 +4,7 @@ For version control (the ability to reverse changes) and potential collaboration
 
 ## Step 1: Create a New Repository
 
-1. **Log in** or **Sign up** to [GitHub](https://github.com)(recommended) or [Codeberg](https://codeberg.org)
+1. **Log in** or **Sign up** to [GitHub](https://github.com ':target=_blank')(recommended) or [Codeberg](https://codeberg.org ':target=_blank')
 2. **Create a new repository**:
    - Tap the upper-right **+** icon and select **New Repository**
    - Fill in the repository details:
