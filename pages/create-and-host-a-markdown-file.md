@@ -88,21 +88,21 @@ Using GitHub Desktop you can preview any changes and then commit those changes b
 ### Articles and Guides
 
 - Basic Syntax | Markdown Guide
-  - [https://www.markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax ':target=_blank')
+  - [markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax ':target=_blank')
 - Improving The Accessibility Of Your Markdown
-  - [https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown ':target=_blank')
+  - [smashingmagazine.com/2021/09/improving-accessibility-of-markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown ':target=_blak')
 - OER on GitHub What, Why, & How
-  - [https://evanwill.github.io/make-oer](https://evanwill.github.io/make-oer ':target=_blank')
+  - [evanwill.github.io/make-oer](https://evanwill.github.io/make-oer ':target=_blank')
 
 ### Desktop Apps
 
 - Markdown Desktop Editors
-  - [https://code.visualstudio.com](https://code.visualstudio.com ':target=_blank')
-  - [https://vscodium.com](https://vscodium.com/ ':target=_blank')
-  - [https://typora.io](https://typora.io ':target=_blank')
-  - [https://pulsar-edit.dev](https://pulsar-edit.dev ':target=_blank') 
+  - [code.visualstudio.com](https://code.visualstudio.com ':target=_blank')
+  - [vscodium.com](https://vscodium.com/ ':target=_blank')
+  - [typora.io](https://typora.io ':target=_blank')
+  - [pulsar-edit.dev](https://pulsar-edit.dev ':target=_blank') 
 - GitHub Desktop App (can also be used with Codeberg)
-  - [https://desktop.github.com](https://desktop.github.com ':target=_blank')
+  - [desktop.github.com](https://desktop.github.com ':target=_blank')
 
 **Ready to get started?**
 Head over to [https://Docsify-This.net](ttps://Docsify-This.net ':target=_blank') and start turning your Markdown files into web pages!
