@@ -88,7 +88,7 @@ Using GitHub Desktop you can preview any changes and then commit those changes b
 ### Articles and Guides
 
 - Basic Syntax | Markdown Guide
-  - [https://www.markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax':target=_blank')
+  - [https://www.markdownguide.org/basic-syntax](https://www.markdownguide.org/basic-syntax ':target=_blank')
 - Improving The Accessibility Of Your Markdown
   - [https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown](https://www.smashingmagazine.com/2021/09/improving-accessibility-of-markdown':target=_blank')
 - OER on GitHub What, Why, & How
