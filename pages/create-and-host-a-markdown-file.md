@@ -60,7 +60,7 @@ _Please note that all the following external links will open in a new Browser ta
 3. **Go to [Docsify-This.net](https://docsify-this.net ':target=_blank')** and paste the copied URL into the **Markdown File URL** field
 4. Tap the **Publish as a Web Page** button to view your Markdown file rendered as a web page using Docsify-This
 
-_Please note that as you make subsequent edits to the file, it may take GitHub and Codeberg a few moments to update the online raw Markdown file used by Docsify-This to display that file._
+_Keep in mind that as you make subsequent edits to the file, it may take GitHub and Codeberg a few moments to update the online raw Markdown file used by Docsify-This to display that file._
 
 ---
 
