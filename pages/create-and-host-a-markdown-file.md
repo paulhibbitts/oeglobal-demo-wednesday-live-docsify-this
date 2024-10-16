@@ -53,7 +53,7 @@ _Please note the following external links will open in a new Browser tab, so you
    - Provide a **Commit Message** (e.g., "Create demo.md") if needed to better describe the changes you’ve made
    - Tap the **Commit Changes** button
 
-## Step 4: Verify the File and View it with Docsify-This
+## Step 4: Verify the File and Publish it with Docsify-This
 
 1. In your repository, **view the file** to see the rendered Markdown
 2. **Copy the file URL** from your Browser’s address bar
