@@ -6,7 +6,7 @@ _Please note the following external links will open in a new Browser tab, so you
 
 ## Step 1: Create a New Repository
 
-1. **Log in** or **Sign up** to [GitHub](https://github.com ':target=_blank')(recommended) or [Codeberg](https://codeberg.org ':target=_blank')
+1. **Log in** or **Sign up** to [GitHub](https://github.com ':target=_blank') (recommended) or [Codeberg](https://codeberg.org ':target=_blank')
 2. **Create a new repository**:
    - Tap the upper-right **+** icon and select **New Repository**
    - Fill in the repository details:
