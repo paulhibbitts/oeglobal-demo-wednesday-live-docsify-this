@@ -1,4 +1,4 @@
-`https://bit.ly/oeglobal-demo-wednesday-live-docsify-this`
+`bit.ly/oeglobal-demo-wednesday-live-docsify-this`
 
 <h1><b>Quick Start to Markdown Publishing:</b><br> Using Docsify-This with GitHub and Codeberg Files</h1> 
 
