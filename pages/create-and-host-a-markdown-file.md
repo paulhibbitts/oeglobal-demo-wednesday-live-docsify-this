@@ -73,7 +73,7 @@ The following are example Markdown templates which can be cloned/forked on GitHu
 - [Multiple Page Open Publishing Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site ':target=_blank')
 - [LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages ':target=_blank')
 
-To use these templates on GitHub:
+To use these templates you would do the following (previews and additional instructions are included with each template):  
 
 1. Tap **Use this template** (top-right green button) in the selected template repository, then choose **Create a new repository**
 2. Name your repository and tap **Create repository** to copy the template files
