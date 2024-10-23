@@ -81,6 +81,8 @@ To use these templates on GitHub:
 4. Visit [Docsify-This.net](https://docsify-this.net), paste the URL into the **Markdown File URL** field
 5. Select your page options (e.g., Docsify Sidebar), and tap **Publish as a Web Page** to generate your web page for sharing or embedding
 
+Once the template files are in your GitHub account, you can modify them to suit your specific needs.  
+
 ---
 
 ## Editing Files on the Desktop
