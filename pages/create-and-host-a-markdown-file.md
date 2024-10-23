@@ -64,6 +64,17 @@ _Keep in mind that as you make subsequent edits to the file, it may take GitHub 
 
 ---
 
+## Docsify-This Markdown Page Templates
+The following are example Markdown templates which can be cloned/forked on GitHub or imported into Codeberg.
+
+- [One Page Article Template](https://github.com/hibbitts-design/docsify-this-one-page-article ':target=_blank')
+- [One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course ':target=_blank')
+- [Multiple Page Course Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-course-site ':target=_blank')
+- [Multiple Page Open Publishing Site Template](https://github.com/hibbitts-design/docsify-this-multiple-page-open-publishing-site ':target=_blank')
+- [LMS Content Pages Template](https://github.com/hibbitts-design/docsify-this-lms-content-pages ':target=_blank')
+
+---
+
 ## Editing Files on the Desktop
 
 Since both GitHub and Codeberg are online [Git services](https://www.w3schools.com/git/git_intro.asp ':target=_blank'), you can use desktop software like GitHub Desktop to sync your content to your local desktop. Syncing files locally enables easier file management, faster editing, and the flexibility to work on your content offline.
