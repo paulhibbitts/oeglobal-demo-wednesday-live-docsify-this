@@ -1,3 +1,5 @@
+`bit.ly/oeglobal-demo-wednesday-live-docsify-this`
+
 <h1><b>Quick Start to Markdown Publishing:</b><br> Using Docsify-This with GitHub and Codeberg Files</h1> 
 
 Materials for Paul Hibbitts’ [OEGlobal Demo Wednesday Live session](https://www.oeglobal.org/event/demo-wednesdays-docsify-this/) about the open-source lightweight Markdown publishing tool [Docsify&#8288;&#8211;&#8288;This](https://Docsify-This.net).
