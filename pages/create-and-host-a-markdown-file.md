@@ -65,7 +65,7 @@ _Keep in mind that as you make subsequent edits to the file, it may take GitHub 
 ---
 
 ## Docsify-This Markdown Page Templates
-The following are example Markdown templates which can be cloned/forked on GitHub or imported into Codeberg.
+The following are Docsify-This Markdown templates which can be cloned/forked on GitHub or imported into Codeberg.
 
 - [One Page Article Template](https://github.com/hibbitts-design/docsify-this-one-page-article ':target=_blank')
 - [One Page Course Template](https://github.com/hibbitts-design/docsify-this-one-page-course ':target=_blank')
